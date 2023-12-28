@@ -1,0 +1,156 @@
+/* header start */
+@media (max-width: 375px) {
+    .header .col-12 .header_content ul li a {
+        margin-right: 10px;
+    }
+}
+
+@media (max-width: 425px) {
+    .header .header_icon {
+        float: left;
+    }
+
+    .header .header_icon ul li {
+        margin-top: -10px;
+    }
+}
+
+/* header end */
+
+/* nev start */
+@media (max-width: 425px) {
+    .navbar .navbar-brand {
+        margin-left: -15px;
+    }
+
+    .navbar button {
+        margin-right: -15px;
+    }
+}
+
+@media (max-width: 375px) {
+    .navbar .navbar-brand {
+        margin-left: -25px;
+    }
+
+    .navbar button {
+        margin-right: -25px;
+    }
+
+}
+
+/* nev end */
+/* banner-part start */
+@media (max-width: 1024px) {
+    #bannner-part-contentc h2 {
+        font-size: 50px;
+        margin-bottom: 5px;
+    }
+
+    #bannner-part-contentc h1 {
+        font-size: 45px;
+    }
+
+    #bannner-part-contentc h4 {
+        font-size: 25px;
+    }
+
+    #bannner-part-contentc a {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    #bannner-part-contentc h2 {
+        font-size: 40px;
+        margin-bottom: 5px;
+    }
+
+    #bannner-part-contentc h1 {
+        font-size: 34px;
+    }
+
+    #bannner-part-contentc h4 {
+        font-size: 25px;
+    }
+
+    #bannner-part-contentc a {
+        font-size: 18px;
+    }
+
+    .d-flx {
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 425px) {
+    #bannner-part-contentc h2 {
+        font-size: 25px;
+        margin-bottom: 5px;
+    }
+
+    #bannner-part-contentc h1 {
+        font-size: 24px;
+    }
+
+    #bannner-part-contentc h4 {
+        font-size: 18px;
+    }
+
+    #bannner-part-contentc a {
+        font-size: 15px;
+    }
+}
+
+/* banner-part end */
+
+/* service-part start */
+@media (max-width: 1024px) {
+    .service-part .service-item h4 {
+        font-size: 16px !important;
+    }
+}
+
+@media (max-width: 425px) {
+    .py_90 {
+        padding: 25px 0px !important;
+    }
+
+    .common-heading h3 {
+        font-size: 25px !important;
+    }
+}
+
+/* service-part end */
+/* our-facilities-part start*/
+@media (max-width: 425px) {
+    .our-facilities-part .common-heading h3 {
+        font-size: 32px !important;
+    }
+
+    .our-facilities-part .common-heading p {
+        font-size: 18px !important;
+    }
+}
+
+@media (max-width: 375px) {
+    .our-facilities-part .common-heading h3 {
+        font-size: 28px !important;
+    }
+
+    .our-facilities-part .common-heading p {
+        font-size: 15px !important;
+    }
+}
+
+
+/* our-facilities-part end*/
+
+/* partner-part _ start */
+@media (max-width: 375px) {
+    .partner-part .common-heading h3 {
+        font-size: 20px !important;
+    }
+}
+
+/* partner-part _ end */
